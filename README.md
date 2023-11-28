@@ -157,10 +157,10 @@ Program ini menyediakan antarmuka baris perintah sederhana untuk mengelola data 
 ### Memasukan Program Input Nilai tanpa memasukan Data 
 ![Screenshot 2023-11-28 182458](https://github.com/Pynixz/praktikum5/assets/147568964/592962a8-c47c-4b01-91b3-0952d7993791)
 
-### Memasukan Program Input Nilai dengan memasukan Data 
+### Memasukan Program Input Nilai dengan Menambahkan Data 
 ![Screenshot 2023-11-28 182545](https://github.com/Pynixz/praktikum5/assets/147568964/abcac787-f573-4877-9845-ea21b0c17283)
 
 ### Mencari Program Input Nilai Data yang telah dimasukan
-![Screenshot 2023-11-28 182637](https://github.com/Pynixz/praktikum5/assets/147568964/55600987-bb07-4173-838b-0a894a159274)
+![Screenshot 2023-11-28 182637](https://github.com/Pynixz/praktikum5/assets/147568964/e8491496-b1a3-4c43-873b-f0cedd41ff45)
 
 ###
