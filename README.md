@@ -174,4 +174,4 @@ Program ini menyediakan antarmuka baris perintah sederhana untuk mengelola data 
 
 
 # Flowchart 
-![Flowchart](https://github.com/Pynixz/praktikum5/assets/147568964/85b655bd-7f7b-4543-a6b6-0ca5ac1c392d)
+![Flowchart](https://github.com/Pynixz/praktikum5/assets/147568964/c114c2a3-39c6-4a70-958a-1176340cca91)
