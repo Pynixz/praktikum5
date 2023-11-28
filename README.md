@@ -163,4 +163,6 @@ Program ini menyediakan antarmuka baris perintah sederhana untuk mengelola data 
 ### Mencari Program Input Nilai Data yang telah dimasukan
 ![Screenshot 2023-11-28 182637](https://github.com/Pynixz/praktikum5/assets/147568964/e8491496-b1a3-4c43-873b-f0cedd41ff45)
 
-###
+### Mengubah Program Input Nilai Data yang telah dimasukan
+![Screenshot 2023-11-28 182857](https://github.com/Pynixz/praktikum5/assets/147568964/41df7a54-fdeb-432e-ae9b-1a102fc27905)
+
