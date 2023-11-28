@@ -114,4 +114,49 @@ while True:
         print("Program selesai, keluar.")
         break
     else:
-        print("Perintah tidak dikenali. Silakan coba lagi.")```
+        print("Perintah tidak dikenali. Silakan coba lagi.")
+```
+### Penjelasan
+
+1. **Class `Mahasiswa`:**
+   - Kelas ini merepresentasikan seorang mahasiswa (`Mahasiswa`) dengan atribut seperti `nim` (Nomor Induk Mahasiswa), `nama` (nama), `nilai_tugas` (nilai tugas), `nilai_uts` (nilai ujian tengah semester), `nilai_uas` (nilai ujian akhir semester), dan `akhir` (nilai akhir).
+   - Metode `__init__` menginisialisasi objek dengan atribut yang diberikan.
+
+2. **Fungsi `tampilkan_daftar_nilai(daftar_nilai)`:**
+   - Fungsi ini menampilkan tabel yang diformat dengan data mahasiswa.
+   - Fungsi ini memeriksa apakah daftar `daftar_nilai` kosong dan mencetak pesan jika tidak ada data.
+   - Jika ada data, itu melalui daftar dan mencetak informasi setiap mahasiswa dalam tabel yang diformat.
+
+3. **Fungsi `tambah_data(daftar_nilai)`:**
+   - Fungsi ini memungkinkan pengguna untuk memasukkan data untuk seorang mahasiswa baru dan menambahkan objek `Mahasiswa` baru ke dalam daftar `daftar_nilai`.
+
+4. **Fungsi `ubah_data(daftar_nilai)`:**
+   - Fungsi ini memungkinkan pengguna untuk memperbarui data seorang mahasiswa yang sudah ada.
+   - Fungsi ini meminta pengguna untuk memasukkan NIM (Nomor Induk Mahasiswa) mahasiswa yang ingin diperbarui.
+   - Jika mahasiswa ditemukan dalam daftar, itu menampilkan data saat ini dan meminta pengguna untuk memasukkan data baru.
+   - Setelah memperbarui data, menghitung kembali atribut `akhir` dan mencetak pesan konfirmasi.
+
+5. **Fungsi `cari_data(daftar_nilai)`:**
+   - Fungsi ini memungkinkan pengguna untuk mencari seorang mahasiswa berdasarkan NIM yang dimasukkan.
+   - Jika mahasiswa ditemukan, menampilkan informasi mereka.
+
+6. **Fungsi `hapus_data(daftar_nilai)`:**
+   - Fungsi ini memungkinkan pengguna untuk menghapus data seorang mahasiswa berdasarkan NIM yang dimasukkan.
+   - Jika mahasiswa ditemukan, menghapus mahasiswa dari daftar dan mencetak pesan konfirmasi.
+
+7. **Program Utama:**
+   - Program dimulai dengan menginisialisasi sebuah daftar kosong `daftar_nilai` untuk menyimpan objek mahasiswa.
+   - Masuk ke dalam loop di mana pengguna diminta untuk memilih aksi dari menu (`(L)ihat`, `(T)ambah`, `(U)bah`, `(C)ari`, `(H)apus`, `(K)eluar`).
+   - Bergantung pada pilihan pengguna, itu memanggil fungsi yang sesuai atau keluar dari program.
+   - Loop berlanjut sampai pengguna memilih untuk keluar.
+
+Program ini menyediakan antarmuka baris perintah sederhana untuk mengelola data mahasiswa, memungkinkan pengguna untuk melihat, menambahkan, memperbarui, mencari, dan menghapus catatan mahasiswa.
+
+# Tampilan Program saat dijalankan
+
+### Memasukan Program Input Nilai tanpa memasukan Data 
+![Screenshot 2023-11-28 182458](https://github.com/Pynixz/praktikum5/assets/147568964/592962a8-c47c-4b01-91b3-0952d7993791)
+
+### Memasukan Program Input Nilai dengan memasukan Data 
+![Screenshot 2023-11-28 182545](https://github.com/Pynixz/praktikum5/assets/147568964/abcac787-f573-4877-9845-ea21b0c17283)
+
